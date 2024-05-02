@@ -1,4 +1,4 @@
-# Maze-generation
+# Rush Hour/Klotski
 This project was developed as part of Northeastern's Fundamentals of Computer Science II class during the Spring of 2024
 
 # Logistics

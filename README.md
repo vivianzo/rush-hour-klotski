@@ -8,11 +8,6 @@ The goal of this assignment was to create a that is an abstract version of [Rush
 * Players can create their string representation of a board and parse it
 * Players can make obstacles in their boards
 
-# Demo: Rush Hour play through
-<p align="center">
-  <img src="https://github.com/vivianzo/rush-hour-klotski/blob/main/rush-hour1.gif" height="400"/>
-</p>
-
 # Demo: Klotski play through
 <p align="center">
   <img src="https://github.com/vivianzo/rush-hour-klotski/blob/main/klotski1.gif" height="400"/>
@@ -21,6 +16,11 @@ The goal of this assignment was to create a that is an abstract version of [Rush
 # Demo: Some More features
 <p align="center">
   <img src="https://github.com/vivianzo/rush-hour-klotski/blob/main/klotski2.gif" height="400"/>
+</p>
+
+# Demo: Rush Hour play through
+<p align="center">
+  <img src="https://github.com/vivianzo/rush-hour-klotski/blob/main/rush-hour1.gif" height="400"/>
 </p>
 
 # Extra Information

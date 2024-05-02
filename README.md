@@ -3,10 +3,10 @@ This project was developed as part of Northeastern's Fundamentals of Computer Sc
 
 # Logistics
 The goal of this assignment was to create a that is an abstract version of [Rush Hour](https://www.thinkfun.com/rush-hour-online-play/) and [Klotski](https://josephpetitti.com/klotski). Both games have different components but are comprised of similar features and we were able to make a combined version of both games with some additional features. Here are some of the implemented features: 
-* Players can see thier score
+* Players can see their score
 * Players can undo moves they made (undoing increases the score)
-* Players can create thier string representation of a board and parse it
-* Players can make obstacles in thier boards
+* Players can create their string representation of a board and parse it
+* Players can make obstacles in their boards
   
 # Demo: Rush Hour play through
 <p align="center">
